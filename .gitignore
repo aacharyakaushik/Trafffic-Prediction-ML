@@ -1,0 +1,13 @@
+.idea/misc.xml
+.idea/modules.xml
+.idea/other.xml
+.idea/rGraphicsSettings.xml
+.idea/rpackages.xml
+.idea/rSettings.xml
+.idea/Traffic-Prediction.iml
+.idea/vcs.xml
+.idea/.gitignore
+.vscode/settings.json
+data/traffic-violations-in-maryland-county.zip
+data/traffic-violations-in-maryland-county/Traffic_Violations.csv
+.idea/inspectionProfiles/profiles_settings.xml
